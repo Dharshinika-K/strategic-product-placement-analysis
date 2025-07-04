@@ -27,20 +27,13 @@ Features
 
 Dashboard:
  Sample Screenshot
-![Dashboard](https://public.tableau.com/views/MyDashboard_17512928
- 561330/Dashboard1?:language=en
-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_sh
- are_link)
+![Dashboard](https://public.tableau.com/views/MyDashboard_17512928561330/Dashboard1?:language=enUS&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
  The project includes an interactive dashboard designed to help stakeholders visualize and explore product placement performance and optimization strategies in an intuitive way.
 
  Story:
   Sample Screenshot
- ![story]( 
-https://public.tableau.com/views/MyStory_1751293046556
- 0/Story1?:language=en
-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:
- origin=viz_share_link)
+ ![story]( https://public.tableau.com/views/MyStory_17512930465560/Story1?:language=enUS&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
  Conclusion:
 This project successfully demonstrated how data-driven analysis can significantly enhance strategic product placement decisions in retail environments. By integrating historical sales data, customer behavior, and visual layout analysis, we were able to identify high-impact zones and propose optimized product arrangements that can lead to increased visibility and revenue.
